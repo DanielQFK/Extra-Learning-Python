@@ -1,12 +1,11 @@
 # f"..." 
 #we make variable(s)
-
+Greet = "Hello"
+Answer = "Hi , How are you? "
 # if we want to use something that has a variable so we use the variable instead of using 
 # that thing(Maybe that thing is included 10 lines and we don't want to write that again and again...)
 # so we use f , then "anything we want to write {variable} and if we want we can continue 
 # writting {and again a variable} and etc..."
-Greet = "Hello"
-Answer = "Hi , How are you? "
 x = f"I wanted to say {Greet} , But he said : {Answer}"
 
 print(x)

@@ -12,5 +12,3 @@ print(Name.rstrip())
 print(Name.lstrip())
 # lstrip.() l=left , so output = 'Alex '
 # It is just used when you have written a string with space with "" 
-
-

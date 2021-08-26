@@ -9,4 +9,4 @@ for x in List:
     # and write something to append a number in your list in each movement    
     List.append(1)
 
-    # As you see it append a number again and again , so x never reaches to our list 
+    # As you see it append a number again and again , so x never reaches to our list ...

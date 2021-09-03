@@ -65,4 +65,5 @@ print("Your numbers are : " , x)
 output:
 Enter your numbers with a comma between them > 1,2,3,4,5,6,7,8
 Your numbers are :  [1, 2, 3, 4, 5, 6, 7, 8]
+...
 """
